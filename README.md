@@ -2,7 +2,7 @@
 
 idk what to put here, sorry **D:**
 
-- reach me via **Discord | *weuritz8u***
+- reach me via **[Discord | *weuritz8u*](https://discord.gg/9Jh8B8pkJa)**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=radical)
 
