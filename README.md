@@ -4,7 +4,7 @@ idk what to put here, sorry **D:**
 
 - reach me via **[Discord | *weuritz8u*](https://discord.gg/9Jh8B8pkJa)**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=neon)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=neon&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=neon&langs_count=20)
 
