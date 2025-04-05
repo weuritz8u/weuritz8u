@@ -6,9 +6,12 @@ idk what to put here, sorry **D:**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=neon&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=neon&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=neon)
 
 <!--
+
+&langs_count=20
+
 **weuritz8u/weuritz8u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
