@@ -6,7 +6,7 @@ idk what to put here, sorry **D:**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=neon&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=neon&layout=compact&hide=markdown)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=neon&layout=compact&hide=markdown&text_color=000000)
 
 <!--
 
