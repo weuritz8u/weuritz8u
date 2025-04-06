@@ -1,6 +1,6 @@
 <div align="center">
 
-## [Hello there 👋](https://tenor.com/de/view/hello-there-gif-5677380953331354485)
+# [Hello there 👋](https://tenor.com/de/view/hello-there-gif-5677380953331354485)
 
 idk what to put here, sorry **D:**
 
@@ -11,6 +11,8 @@ This is my Account for my Projects that are *not totally* trash, so this is alth
 ***[Here]**(https://github.com/shadowdara) is the other! `(Shadowdara)`*
 
 ***`fav langs:`* `Pyhton`**
+
+<h4><i><a href="#projectlist">To the Project List!</a></i></h4>
 
 reach me via **[Discord: *weuritz8u*](https://discord.gg/9Jh8B8pkJa)** / <b><a href="mailito:reacheme.shadowdara+github2@gmail.com">Email: <i>reacheme.shadowdara+github2@gmail.com</i><a></b>
 
@@ -36,11 +38,11 @@ reach me via **[Discord: *weuritz8u*](https://discord.gg/9Jh8B8pkJa)** / <b><a h
 
 *END: `I dont think anyone will scroll until here lol`*
 
+<h2 id="projectlist">Project List</h2>
+
 </div>
 
 <!--
-
-&langs_count=20
 
 **weuritz8u/weuritz8u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
