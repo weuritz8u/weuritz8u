@@ -1,53 +1,63 @@
+<!-- Sorry for writing this in HTML! -->
+
 <div align="center">
 
-# [Hello there 👋](https://tenor.com/de/view/hello-there-gif-5677380953331354485)
+<h1><a href="https://tenor.com/de/view/hello-there-gif-5677380953331354485">Hello there 👋</a></h1>
 
-idk what to put here, sorry **D:**
+<p>idk what to put here, sorry <b>D:</b></p>
 
-I like programming and i am still learning it.
+<p>I like programming and i am still learning it</p>
 
-This is my Account for my Projects that are *not totally* trash, so this is although the more inactive acc.
+<p>This is my Account for my Projects that are <i>not totally</i> trash, so this is although the more inactive acc.</p>
 
-***[Here]**(https://github.com/shadowdara) is the other! `(Shadowdara)`*
+<p><b><i><a href="https://github.com/shadowdara">Here</a> is the other! <code>(Shadowdara)</code></i></b></p>
 
-***`fav langs:`* `Pyhton`**
+<p><b>fav langs:</b> <code>Python</code></p>
 
-<h4><i><a href="#projectlist">To the Project List!</a></i></h4>
+<h4><i><a href="#projectlist">🚨🚨🚨 to the Projectlist! 🚨🚨🚨</a></i></h4>
 
-reach me via **[Discord: *weuritz8u*](https://discord.gg/9Jh8B8pkJa)** / <b><a href="mailito:reacheme.shadowdara+github2@gmail.com">Email: <i>reacheme.shadowdara+github2@gmail.com</i><a></b>
+<p>Erreich mich via <b><a href="https://discord.gg/9Jh8B8pkJa">Discord - <i>weuritz8u</i></a></b> / <b><a href="mailto:reacheme.shadowdara+github2@gmail.com">Email - <i>reacheme.shadowdara+github2@gmail.com</i></a></b></p>
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=midnight-purple&show_icons=true" alt="Stats">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=midnight-purple&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&hide=markdown)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&hide=markdown" alt="Top languages">
 
 <br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=weuritz8u&theme=midnight-purple)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=weuritz8u&theme=midnight-purple" alt="Streak">
 
 <br>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=weuritz8u&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=weuritz8u&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF" alt="Activity graph">
 
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=weuritz8u&theme=algolia&margin-w=15&margin-h=15)
+<img src="https://github-profile-trophy.vercel.app/?username=weuritz8u&theme=algolia&margin-w=15&margin-h=15" alt="Trophies">
 
 <br>
 
-*END: `I dont think anyone will scroll until here lol`*
+<p><i>THE END: <code>I dont think anyone will scroll until here lol</code></i></p>
 
-<h2 id="projectlist">Project List</h2>
+<h2 id="projectlist">🚨🚨🚨 Projectlist 🚨🚨🚨</h2>
+
+<br>
+
+<code><b><i>Views</i></b></code>
+
+<img src="https://hits.sh/github.com/weuritz8u/weuritz8u.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github">
+
+<br>
+
+<code><b><i>Full End!</i></b></code>
 
 </div>
 
 <!--
-
+    
 **weuritz8u/weuritz8u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+    
 Here are some ideas to get you started:
-
+    
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -56,7 +66,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+    
 pfp: https://de.wikipedia.org/wiki/Rockwell_B-1#/media/Datei:B1_fire.jpg
-
+    
 -->
