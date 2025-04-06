@@ -8,7 +8,7 @@ I like programming and i am still learning it.
 
 This is my Account for my Projects that are *not totally* trash, so this is although the more inactive acc.
 
-*[Here](https://github.com/shadowdara) is the other!*
+***[Here]**(https://github.com/shadowdara) is the other! `(Shadowdara)`*
 
 ***`fav langs:`* `Pyhton`**
 
