@@ -1,12 +1,38 @@
+<div align="center">
+
 ## Hi there 👋
 
 idk what to put here, sorry **D:**
 
-- reach me via **[Discord: *weuritz8u*](https://discord.gg/9Jh8B8pkJa)** / <b><a href="mailito:reacheme.shadowdara+github2@gmail.com">Email: <i>reacheme.shadowdara+github2@gmail.com</i><a></b>
+I like programming and i am still learning it.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=neon&show_icons=true)
+This is my Account for my Projects that are *not totally* trash, so this is although the more inactive acc.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=neon&layout=compact&hide=markdown&text_color=ffffff)
+*[Here](https://github.com/shadowdara) is the other!*
+
+***`fav langs:`* `Pyhton`**
+
+reach me via **[Discord: *weuritz8u*](https://discord.gg/9Jh8B8pkJa)** / <b><a href="mailito:reacheme.shadowdara+github2@gmail.com">Email: <i>reacheme.shadowdara+github2@gmail.com</i><a></b>
+
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=midnight-purple&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&hide=markdown)
+
+<br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=weuritz8u&theme=midnight-purple)
+
+<br>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=weuritz8u&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF)
+
+<br>
+
+![](https://github-profile-trophy.vercel.app/?username=weuritz8u&theme=algolia&margin-w=15&margin-h=15)
+
+</div>
 
 <!--
 
