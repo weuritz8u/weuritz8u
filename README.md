@@ -18,12 +18,11 @@
 
 <p>Erreich mich via <b><a href="https://discord.gg/9Jh8B8pkJa">Discord - <i>weuritz8u</i></a></b> / <b><a href="mailto:reacheme.shadowdara+github2@gmail.com">Email - <i>reacheme.shadowdara+github2@gmail.com</i></a></b></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=midnight-purple&show_icons=true" alt="Stats">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&hide=markdown" alt="Top languages">
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=midnight-purple&show_icons=true" alt="Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=weuritz8u&theme=midnight-purple" alt="Streak">
 
 <br>
