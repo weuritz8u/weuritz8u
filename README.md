@@ -41,9 +41,7 @@
 
 <p><i>Obviously not a complete list</i></p>
 
-<a href="https://github.com/weuritz8u/local-HTTP-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=local-HTTP-server" alt="local-HTTP-server"></a>
-
-<a href="https://github.com/weuritz8u/Godot-Save-Template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=Godot-Save-Template" alt="local-HTTP-server"></a>
+<a href="https://github.com/weuritz8u/local-HTTP-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=local-HTTP-server" alt="local-HTTP-server"></a><a href="https://github.com/weuritz8u/Godot-Save-Template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=Godot-Save-Template" alt="local-HTTP-server"></a>
 
 <code><b><i>Views</i></b></code>
 
