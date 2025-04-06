@@ -32,6 +32,10 @@ reach me via **[Discord: *weuritz8u*](https://discord.gg/9Jh8B8pkJa)** / <b><a h
 
 ![](https://github-profile-trophy.vercel.app/?username=weuritz8u&theme=algolia&margin-w=15&margin-h=15)
 
+<br>
+
+*END: `I dont think anyone will scroll until here lol`*
+
 </div>
 
 <!--
