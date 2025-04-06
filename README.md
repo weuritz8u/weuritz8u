@@ -4,7 +4,7 @@
 
 <h1><a href="https://tenor.com/de/view/hello-there-gif-5677380953331354485">Hello there 👋</a></h1>
 
-<p>idk what to put here, sorry <b>D:</b></p>
+<p>idk what to really put here, so ... , sorry <b>D:</b></p>
 
 <p>I like programming and i am still learning it</p>
 
