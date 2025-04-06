@@ -2,7 +2,7 @@
 
 idk what to put here, sorry **D:**
 
-- reach me via **[Discord | *weuritz8u*](https://discord.gg/9Jh8B8pkJa)**
+- reach me via **[Discord | *weuritz8u*](https://discord.gg/9Jh8B8pkJa)** / **<a href="mailito:reacheme.shadowdara+github2@gmail.com">Email | *reacheme.shadowdara+github2@gmail.com*<a>**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=neon&show_icons=true)
 
