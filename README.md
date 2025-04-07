@@ -40,7 +40,7 @@
 
 <h2 id="projectlist">🚨🚨🚨 Projectlist 🚨🚨🚨</h2>
 
-<p><i>Obviously not a complete list</i></p>
+<p><b><i>Obviously not a complete list</i></b></p>
 
 
 
