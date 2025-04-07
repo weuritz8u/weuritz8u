@@ -50,10 +50,15 @@
      ========== Project List Here ========== 
      ========== ================= ========== -->
 
-<a href="https://github.com/weuritz8u/run-without-admin-rights"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=run-without-admin-rights" alt="run-without-admin-rights"></a>
-<a href="https://github.com/weuritz8u/read-wlan-password"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=read-wlan-password" alt="read-wlan-password"></a>
-<a href="https://github.com/weuritz8u/local-HTTP-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=local-HTTP-server" alt="local-HTTP-server"></a>
-<a href="https://github.com/weuritz8u/3ma-to-obj-converter-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=3ma-to-obj-converter-python" alt="3ma-to-obj-converter-python"></a>
+<div>
+     <a href="https://github.com/weuritz8u/run-without-admin-rights"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=run-without-admin-rights" alt="run-without-admin-rights"></a>
+     <a href="https://github.com/weuritz8u/read-wlan-password"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=read-wlan-password" alt="read-wlan-password"></a>
+</div>
+
+<div>
+     <a href="https://github.com/weuritz8u/local-HTTP-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=local-HTTP-server" alt="local-HTTP-server"></a>
+     <a href="https://github.com/weuritz8u/3ma-to-obj-converter-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=3ma-to-obj-converter-python" alt="3ma-to-obj-converter-python"></a>
+</div>
 
 <!--
 <a href="https://github.com/weuritz8u/Godot-Save-Template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=Godot-Save-Template" alt="Godot-Save-Template"></a>
