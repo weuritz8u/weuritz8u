@@ -60,7 +60,7 @@
 -->
 
 
-<code><b><i>Views</i></b></code>
+<code><b><i>Github Views</i></b></code>
 
 <img src="https://hits.sh/github.com/weuritz8u/weuritz8u.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github">
 
