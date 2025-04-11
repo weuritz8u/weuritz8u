@@ -19,7 +19,7 @@
 
 <h4><i><a href="#projectlist">🚨🚨🚨 to the Projectlist! 🚨🚨🚨</a></i></h4>
 
-<p>reach me via <b><a href="https://discord.gg/9Jh8B8pkJa">Discord - <i>weuritz8u</i></a></b> / <b><a href="mailto:reacheme.shadowdara+github2@gmail.com">Email - <i>reacheme.shadowdara+github2@gmail.com</i></a></b> / <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdV2KvqaxToEZxFZ0WMaPphFEHotSLv3rgdyWOV07HIKbBLBg/viewform">Contact Form <i>(anonymously)</i></a></b></p>
+<p><b>reach me via <a href="https://discord.gg/9Jh8B8pkJa">Discord - <i>weuritz8u</i></a></b> / <b><a href="mailto:reacheme.shadowdara+github2@gmail.com">Email - <i>reacheme.shadowdara+github2@gmail.com</i></a></b> / <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdV2KvqaxToEZxFZ0WMaPphFEHotSLv3rgdyWOV07HIKbBLBg/viewform">Contact Form <i>(anonymously)</i></a></b></p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&hide=markdown" alt="Top languages">
 
