@@ -12,7 +12,12 @@
 <!-- <h4><i><a href="#projectlist">🚨🚨🚨 to the Projectlist! 🚨🚨🚨</a></i></h4> -->
 
 <p><b>reach me via <a href="https://discord.gg/9Jh8B8pkJa">Discord - <i>Shadowdara</i></a></b> / <b>Email - <a href="mailto:reacheme.shadowdara+github2@gmail.com"><i>reacheme.shadowdara+github2@gmail.com</i></a></b> / <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdV2KvqaxToEZxFZ0WMaPphFEHotSLv3rgdyWOV07HIKbBLBg/viewform">Contact Form</a> <i>(anonymously)</i></b></p>
-
+<br>
+<div>
+     <!-- run-without-admin-rights --> <a href="https://github.com/weuritz8u/run-without-admin-rights"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=run-without-admin-rights" alt="run-without-admin-rights"></a>
+     <!-- read-wlan-password --> <a href="https://github.com/weuritz8u/read-wlan-password"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=read-wlan-password" alt="read-wlan-password"></a>
+</div>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&hide=markdown" alt="Top languages">
 
 <br>
