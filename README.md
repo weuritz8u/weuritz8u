@@ -7,19 +7,11 @@
 
 <h1><a href="https://tenor.com/de/view/hello-there-gif-5677380953331354485">Hello there 👋</a></h1>
 
-<p>idk what to really put here, so ... sorry <b>D:</b></p>
-
-<p>I like programming and i am still learning it</p>
-
-<p>This is my Account for my Projects that are <i>not totally</i> trash, so this is although the more inactive acc.</p>
-
-<p><b><i><a href="https://github.com/shadowdara">Here</a> is the other! <code>(Shadowdara)</code></i></b></p>
-
-<p><b>fav langs:</b> <code>Python</code></p>
+<h3><b><i><a href="https://github.com/shadowdara">Info- I used this Account tempory for my projects, but now i continue them on `ShadowDara` again</a></i></b></h3>
 
 <h4><i><a href="#projectlist">🚨🚨🚨 to the Projectlist! 🚨🚨🚨</a></i></h4>
 
-<p><b>reach me via <a href="https://discord.gg/9Jh8B8pkJa">Discord - <i>weuritz8u</i></a></b> / <b><a href="mailto:reacheme.shadowdara+github2@gmail.com">Email - <i>reacheme.shadowdara+github2@gmail.com</i></a></b> / <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdV2KvqaxToEZxFZ0WMaPphFEHotSLv3rgdyWOV07HIKbBLBg/viewform">Contact Form <i>(anonymously)</i></a></b></p>
+<p><b>reach me via <a href="https://discord.gg/9Jh8B8pkJa">Discord - <i>Shadowdara</i></a></b> / <b><a href="mailto:reacheme.shadowdara+github2@gmail.com">Email - <i>reacheme.shadowdara+github2@gmail.com</i></a></b> / <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdV2KvqaxToEZxFZ0WMaPphFEHotSLv3rgdyWOV07HIKbBLBg/viewform">Contact Form <i>(anonymously)</i></a></b></p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&hide=markdown" alt="Top languages">
 
@@ -64,6 +56,9 @@
 
 </div>
 
+
+*pfp: https://de.wikipedia.org/wiki/Rockwell_B-1#/media/Datei:B1_fire.jpg*
+
 <!--
     
 **weuritz8u/weuritz8u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -78,7 +73,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-    
-pfp: https://de.wikipedia.org/wiki/Rockwell_B-1#/media/Datei:B1_fire.jpg
     
 -->
