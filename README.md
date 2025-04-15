@@ -7,7 +7,7 @@
 
 <h1><a href="https://tenor.com/de/view/hello-there-gif-5677380953331354485">Hello there 👋</a></h1>
 
-<h3><b><i><a href="https://github.com/shadowdara">Info- I used this Account tempory for my projects, but now i continue them on `ShadowDara` again</a></i></b></h3>
+<h3><b><i>Info- I used this Account tempory for my projects, but now i continue them on <code><a href="https://github.com/shadowdara">ShadowDara</a></code> again</i></b></h3>
 
 <h4><i><a href="#projectlist">🚨🚨🚨 to the Projectlist! 🚨🚨🚨</a></i></h4>
 
