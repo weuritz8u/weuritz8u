@@ -9,7 +9,7 @@
 
 <h3><b><i>Info- I used this Account tempory for my projects, but now i continue them on <code><a href="https://github.com/shadowdara">ShadowDara</a></code> again</i></b></h3>
 
-<h4><i><a href="#projectlist">🚨🚨🚨 to the Projectlist! 🚨🚨🚨</a></i></h4>
+<!-- <h4><i><a href="#projectlist">🚨🚨🚨 to the Projectlist! 🚨🚨🚨</a></i></h4> -->
 
 <p><b>reach me via <a href="https://discord.gg/9Jh8B8pkJa">Discord - <i>Shadowdara</i></a></b> / <b>Email - <a href="mailto:reacheme.shadowdara+github2@gmail.com"><i>reacheme.shadowdara+github2@gmail.com</i></a></b> / <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdV2KvqaxToEZxFZ0WMaPphFEHotSLv3rgdyWOV07HIKbBLBg/viewform">Contact Form</a> <i>(anonymously)</i></b></p>
 
@@ -28,21 +28,23 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=weuritz8u&theme=algolia&margin-w=15&margin-h=15" alt="Trophies">
 
+<!--
+
 <br>
 
 <p><i>THE END: <code>I dont think anyone will scroll until here lol</code></i></p>
 
 <h2 id="projectlist">🚨🚨🚨 Projectlist 🚨🚨🚨</h2>
 
-<!-- projectlist --> <a href="https://github.com/weuritz8u/projectlist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=projectlist" alt="projectlist"></a>
+<a href="https://github.com/weuritz8u/projectlist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=projectlist" alt="projectlist"></a>
 
 
 <h3><b>🚨 I am currently working on 🚨</b></h3>
 
-<!-- Repository Database Creator --> <a href="https://github.com/ShadowDara/repo-database-creator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator"></a>
+<a href="https://github.com/ShadowDara/repo-database-creator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator"></a>
 
 
-<!-- End Part Now -->
+<-- End Part Now -->
 
 <br>
 
