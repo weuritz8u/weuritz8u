@@ -18,20 +18,6 @@
      <!-- read-wlan-password --> <a href="https://github.com/weuritz8u/read-wlan-password"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weuritz8u&theme=midnight-purple&repo=read-wlan-password" alt="read-wlan-password"></a>
 </div>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&hide=markdown" alt="Top languages">
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=midnight-purple&show_icons=true" alt="Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=weuritz8u&theme=midnight-purple" alt="Streak">
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=weuritz8u&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF" alt="Activity graph">
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=weuritz8u&theme=algolia&margin-w=15&margin-h=15" alt="Trophies">
 
 <!--
 
