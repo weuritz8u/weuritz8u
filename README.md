@@ -5,12 +5,17 @@
 
 <div align="center">
 
-<h1><a href="https://tenor.com/de/view/hello-there-gif-5677380953331354485">Hello there 👋</a></h1>
+<h2><a href="https://tenor.com/de/view/hello-there-gif-5677380953331354485">Hello there 👋</a></h2>
 
-<h3><b>This Account is inaktive!</b></h3>
-<h2>Check <a href="https://github.com/shadowdara">@Shadowdara</a></h2>
+<i><b>Here are my Minecraft Projects uploaded!</b></i>
+
+<h1>Check <a href="https://github.com/shadowdara">@Shadowdara</a></h1>
 
 <br>
+
+<a href="https://github.com/shadowdara"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=9745F5&center=true&vCenter=true&random=true&width=435&lines=Click+here" alt="Typing SVG" /></a>
+<br>
+<a href="https://github.com/shadowdara"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9745F5&center=true&vCenter=true&random=true&width=435&lines=for+a+nice+Info+file!" alt="Typing SVG" /></a>
 
 <code><b><i>Github Views</i></b></code>
 
