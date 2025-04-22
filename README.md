@@ -32,7 +32,7 @@
 
 *pfp: https://de.wikipedia.org/wiki/Rockwell_B-1#/media/Datei:B1_fire.jpg*
 
-*Last updated: 2025-04-21*
+*Last updated: 2025-04-22*
 
 <!--
     
