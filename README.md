@@ -16,8 +16,6 @@
 <a href="https://github.com/shadowdara"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=9745F5&center=true&vCenter=true&random=true&width=435&lines=Click+here" alt="Typing SVG" /></a>
 <br>
 <a href="https://github.com/shadowdara"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9745F5&center=true&vCenter=true&random=true&width=435&lines=for+a+nice+Info+file!" alt="Typing SVG" /></a>
-<br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2D9400&center=true&vCenter=true&random=true&width=435&lines=my+minecraft;stuff+is+now+here!" alt="Typing SVG" />
 
 <code><b><i>Github Views</i></b></code>
 
