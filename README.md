@@ -25,14 +25,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&langs_count=8&hide=markdown,ini&exclude=upptime"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&langs_count=8&hide=markdown,ini&exclude_repo=upptime"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&bg_color=FFE1FA&text_color=000000&title_color=FF00D8&langs_count=8&hide=markdown,ini&exclude=upptime"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&bg_color=FFE1FA&text_color=000000&title_color=FF00D8&langs_count=8&hide=markdown,ini&exclude_repo=upptime"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&langs_count=8&hide=markdown,ini&exclude=upptime" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&langs_count=8&hide=markdown,ini&exclude_repo=upptime" />
 </picture>
 
 <br>
